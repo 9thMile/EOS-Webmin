@@ -1,0 +1,2 @@
+eos_conf=Path to EOS Webserver configuration file,0
+sort_mode=Sort users by,1,1-Name,0-ID

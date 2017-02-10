@@ -1,0 +1,3 @@
+desc= EOS Weather Station
+os_support=*-linux
+category=servers
